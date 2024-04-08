@@ -1,4 +1,4 @@
-# Solbubbles gamepool escrow
+# Solbubbles gamepool escrow written in Rust
 
 ## Overview
 
